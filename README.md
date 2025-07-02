@@ -60,7 +60,21 @@ Built as part of the **Software Engineering School 5.0** program.
 
 ---
 
-## 📫 Let's Connect
+## 🤝 **Let's Connect & Collaborate**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/denis-bredun)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bredun.denis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-bredun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bredun.denis@gmail.com)
+
+**💬 Open to discuss:** Backend Architecture • AI Integration • Remote Opportunities • Open Source Collaboration
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Denis-Bredun&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/Denis-Bredun)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
+</div>
