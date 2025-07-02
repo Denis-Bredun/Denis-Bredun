@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=200&section=header&text=Hi,%20I'm%20Denis%20Bredun!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Denis-Bredun)](https://git.io/streak-stats)
+
 # 👨‍💻 Backend .NET Developer  
 💻 Clean Architecture | ☁️ Cloud & AI Enthusiast | 🇺🇦 Based in Ukraine  
 🎓 Junior Bachelor in CS | 🧪 Love building side-projects!
