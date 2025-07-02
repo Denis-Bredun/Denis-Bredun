@@ -73,8 +73,4 @@ Built as part of the **Software Engineering School 5.0** program.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Denis-Bredun&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/Denis-Bredun)
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" />
