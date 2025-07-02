@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=512BD4&height=200&section=header&text=Denis%20Bredun&fontSize=40&fontColor=ffffff&desc=Backend%20.NET%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Cloud%20Lover&descSize=20&descAlignY=60&animation=twinkling" />
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Denis-Bredun&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=200&section=header&text=Hi,%20I'm%20Denis%20Bredun!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 # 👨‍💻 Backend .NET Developer  
 💻 Clean Architecture | ☁️ Cloud & AI Enthusiast | 🇺🇦 Based in Ukraine  
@@ -57,6 +55,8 @@ Built as part of the **Software Engineering School 5.0** program.
 ## 📊 GitHub Stats
 
 ![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denis-Bredun&show_icons=true&theme=tokyonight&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Denis-Bredun&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Bredun&layout=compact&theme=tokyonight)
 
