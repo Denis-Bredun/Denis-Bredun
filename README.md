@@ -46,7 +46,7 @@
 
 ### 🌤️ [Weather Subscription API](https://github.com/Denis-Bredun/Weather-Subscription-API)  
 **REST API for weather subscriptions** — lets users sign up for daily/hourly forecasts via email with confirmation and unsubscribe flows.  
-Built as part of the selection to the **Software Engineering School 5.0** program.  
+Built as part of the selection for the **Software Engineering School 5.0** program.  
 🔧 NestJS • PostgreSQL • TypeORM • Cron • Nodemailer • Docker • Swagger • Jest  
 🔗 [Live API](https://weather-subscription-api-h5i1.onrender.com) | [Docs](https://weather-subscription-api-h5i1.onrender.com/api/docs)
 
