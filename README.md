@@ -56,7 +56,7 @@ Built as part of the **Software Engineering School 5.0** program.
 
 ![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denis-Bredun&show_icons=true&theme=tokyonight&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Denis-Bredun)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Denis-Bredun" alt="GitHub Streak" /></a>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Bredun&layout=compact&theme=tokyonight)
 
