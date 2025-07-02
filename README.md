@@ -56,8 +56,6 @@ Built as part of the **Software Engineering School 5.0** program.
 
 ![Denis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Denis-Bredun&show_icons=true&theme=tokyonight&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Denis-Bredun&theme=dark)](https://git.io/streak-stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Bredun&layout=compact&theme=tokyonight)
 
 ---
@@ -66,9 +64,5 @@ Built as part of the **Software Engineering School 5.0** program.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/denis-bredun)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bredun.denis@gmail.com)
-
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Denis-Bredun.Denis-Bredun)
 
 > _"Clean code is not written by following rules. It’s written by following your passion."_ — Uncle Bob
